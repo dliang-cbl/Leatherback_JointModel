@@ -14,7 +14,7 @@ The code requires installation of the following R packages: raster, ctmcmove,mgc
 	
 	loc.csv - Simulated fisheries observation data
 	track.csv - Simulated tracking data
-  seascape.RData - An R list of raster stacks of seascape variables
+	seascape.RData - An R list of raster stacks of seascape variables
 
 	nmiss_2.R - Internal helper code
 	s2inla_6.R - Internal helper code
